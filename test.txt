@@ -1,4 +1,0 @@
-test zz
-
-test1 입니다.
-
