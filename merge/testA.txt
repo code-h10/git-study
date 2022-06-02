@@ -5,5 +5,3 @@ ss
 bb
 
 cc
-
-dd
