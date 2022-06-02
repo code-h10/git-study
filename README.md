@@ -25,7 +25,6 @@ $ git stash drop
 ```
 
 ## 2. 되돌리기
-
 2.1 Commonit 메시지 수정 및 빼먹은 파일 추가하여 다시 Commit
 아래의 명령어를 실행하면 첫번째 Commit 한 내용에 text.txt 파일을 추가하여 첫번째 Commit 을 덮어쓴다.
 ```
