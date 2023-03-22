@@ -34,8 +34,8 @@ $ git commit --amend
 ```
 
 ## 3. Reset
-3.1 특정 Commit 을 가리게가 한다.
-아래의 명령어 2개느 동일하 기능을 수행한다.
+3.1 특정 Commit 을 가리키게 한다.
+아래의 명령어 2개는 동일한 기능을 수행한다.
 ```
 $ git reset 9e5e6a4
 $ git reset --soft 
